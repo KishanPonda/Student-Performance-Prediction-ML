@@ -236,16 +236,16 @@ Possible future enhancements include:
 # Screenshots
 
 ## Grade Distribution
-(Add screenshot here)
+![Grade Distribution](screenshots/grade_distribution.png)
 
 ## Correlation Heatmap
-(Add screenshot here)
+![Correlation Heatmap](screenshots/correlation_heatmap.png)
 
 ## Accuracy Comparison
-(Add screenshot here)
+![Accuracy Comparison](screenshots/accuracy_comparison.png)
 
 ## Feature Importance
-(Add screenshot here)
+![Feature Importance](screenshots/feature_importance.png)
 
 ---
 
